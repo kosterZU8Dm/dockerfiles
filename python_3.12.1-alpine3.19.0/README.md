@@ -1,5 +1,9 @@
 # dockerfiles
 
+## description
+libffi-dev - need to psycorg2\
+openssl-dev - need for pip connect to pypi.org
+
 ## command to build image:
 ```
 cd <image directory>
